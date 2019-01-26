@@ -24,5 +24,4 @@ void MAX7221_refresh();
 
 
 
-
 #endif /* SPI_H_ */
