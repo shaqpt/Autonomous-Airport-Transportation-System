@@ -10,4 +10,4 @@ Shaqueir Tardif;
 Anthony Mitchell;
 Devaj Ramsamooj
 
-*It was originally intended to implement an LCD screen within the project to display when the mimic train system would successfully reach its "destinations" and inform users to upcoming "destination" stops. However, due to insufficient time, understanding of the LCD component and how to control it, it was unable to included within the final build of the overall system design.
+*It was originally intended to implement an LCD screen within the project to display when the mimic train system would successfully reach its "destinations" and inform users to upcoming "destination" stops. However, due to insufficient time, understanding of the LCD component and how to control it, it was unable to be included within the final build of the overall system design.
