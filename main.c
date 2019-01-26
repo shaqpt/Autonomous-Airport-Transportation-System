@@ -246,6 +246,5 @@ ISR(ADC_vect) //interrupt handler for distance sensor
 		stp = 0;
 		
 	}
-	
-	
+		
 }
