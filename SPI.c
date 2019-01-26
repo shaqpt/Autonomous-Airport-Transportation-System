@@ -1,6 +1,6 @@
 /*
  * SPI.c
- *
+ * 
  * Created: 10/18/2017 10:24:47 AM
  * Authors: Shaqueir Tardif
  *		    Anthony Mitchell
